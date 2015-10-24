@@ -1,6 +1,6 @@
 name: WateredDownMusic
 favicon: null
-layout_spectrum: 0.8250433537177742
+layout_spectrum: 1
 typography_spectrum: 0.16827411809936166
 cta:
   domain: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.6812630263157189
+  brandColors:
+    - '#739fa0'
+    - '#d8d9d1'
+    - '#4c3434'
+    - '#d88482'
+    - '#7f6f6e'
+  brandStrength: 0.75
   lightness: 0.9863539568614215
   saturation: 0.6835204444359988
   rhythmicContrast: 0.7833295178133994
